@@ -1,0 +1,10 @@
+﻿  Fraction.cpp
+  lab 1.5.cpp
+C:\Users\User\source\repos\lab 1.5\lab 1.5\lab 1.5.cpp(25,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\lab 1.5\lab 1.5\lab 1.5.cpp(29,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\lab 1.5\lab 1.5\lab 1.5.cpp(33,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\lab 1.5\lab 1.5\lab 1.5.cpp(7,19): warning C4101: 'd': unreferenced local variable
+  Pair.cpp
+  Generating Code...
+C:\Users\User\source\repos\lab 1.5\lab 1.5\Fraction.cpp(42): warning C4715: 'Fraction::ComparePairs': not all control paths return a value
+  lab 1.5.vcxproj -> C:\Users\User\source\repos\lab 1.5\Debug\lab 1.5.exe
